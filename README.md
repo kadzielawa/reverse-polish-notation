@@ -5,6 +5,7 @@ used tools:
 
 - jdk: 1.8.0_161
 - Maven 3.3.9
+- (for tests) junit 4.12 
 
 ## usage: 
 1. clone repository
